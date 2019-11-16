@@ -27,7 +27,7 @@ setup(
     author_email="liran.funaro+simpleconfig@gmail.com",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url="https://bitbucket.org/funaro/simple-config",
+    url="https://github.com/liran-funaro/simple-config",
     keywords='configuration',
     classifiers=[
         "Programming Language :: Python :: 3",
